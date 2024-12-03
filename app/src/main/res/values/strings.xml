@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cartoon</string>
+    <string name="button_discover_text">Discover which character you are!</string>
+    <string name="image_character_content_description">Character Image</string>
+    <string name="character_info_text">Character Info</string>
+    <string name="loading">Loading...</string>
+</resources>
