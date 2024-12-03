@@ -4,6 +4,8 @@
 
 O aplicativo **Cartoon** é uma aplicação Android que consome a API GraphQL do *Rick and Morty* para exibir informações sobre os personagens do desenho animado. Ele utiliza o padrão de arquitetura **MVC** (Model-View-Controller), injeção de dependência com **Dagger**, e comunicação com a API usando **Apollo Client** e **GraphQL**. O código é estruturado para facilitar testes unitários e de UI, garantindo uma boa manutenção e escalabilidade do aplicativo.
 
+![image](https://github.com/user-attachments/assets/5b4db7fa-fbf0-4826-a129-f0ad491d64b4)
+
 ---
 
 ### **Arquitetura do Aplicativo**
