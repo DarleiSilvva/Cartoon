@@ -129,3 +129,8 @@ Rodar os testes:
 Para rodar os testes unitários e de UI, execute os testes diretamente do Android Studio.
 Conclusão
 Este aplicativo Cartoon organiza o código de forma modular, utilizando o padrão MVC e Dagger para injeção de dependência, enquanto utiliza Apollo Client e GraphQL para consumir a API do Rick and Morty. Com suporte para testes unitários e de UI, o aplicativo oferece uma base sólida para garantir a qualidade e a escalabilidade.
+
+---
+### Conclusão
+
+Este aplicativo Cartoon organiza o código de forma modular, utilizando o padrão MVC e Dagger para injeção de dependência, enquanto utiliza Apollo Client e GraphQL para consumir a API do Rick and Morty. Com suporte para testes unitários e de UI, o aplicativo oferece uma base sólida para garantir a qualidade e a escalabilidade.
